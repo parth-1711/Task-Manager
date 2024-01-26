@@ -1,0 +1,13 @@
+.list{
+    display: flex;
+    justify-content: center;
+    /* margin-top: 9rem; */
+}
+
+.newButton{
+    /* position: relative; */
+    /* left: 45rem; */
+    /* display: flexbox; */
+    text-align: center;
+    top:10rem;
+}

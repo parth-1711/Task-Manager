@@ -1,0 +1,15 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.actions{
+    width: 25rem;
+    padding: 1rem;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    left: 31rem;
+    margin: 3rem;
+}
